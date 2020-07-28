@@ -1,3 +1,0 @@
-CREATE ONE FOLDER "Dynamic" ON "C:\Documents and Settings\ibn\Desktop" THIS
- OR ELSE
-CHANGE PATH IN DOWNLOAD CODE
