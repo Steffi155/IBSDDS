@@ -104,7 +104,7 @@ String me =session.getAttribute("us").toString();
     <!-- footer -->
     
 <script type="text/javascript">Cufon.now();</script>
-<div align=center>copyright: jp infotech</div>
+
 <div style="position: absolute; left:315px; top: 100px">
 <img src="images/hd.png" height="80" width="550">
 </div>
